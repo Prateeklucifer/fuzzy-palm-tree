@@ -1,4 +1,4 @@
-# Git comment format
+# Git commit format
 
 - **feat** - a new feature
 - **fix** - a bug fix
